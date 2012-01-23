@@ -14,6 +14,9 @@ end
 group :test do
   gem 'rspec-rails', '2.6.1'
   gem 'webrat', '0.7.1'
+  gem 'ZenTest', '4.5.0'
+  gem 'autotest-rails', '4.1.1'
+  gem 'spork', '0.9.0'
 end
 
 
